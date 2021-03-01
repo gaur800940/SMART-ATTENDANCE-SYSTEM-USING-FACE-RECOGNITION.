@@ -1,0 +1,2 @@
+# SMART-ATTENDANCE-SYSTEM-USING-FACE-RECOGNITION.
+Smart Attendance System using Face Recognition was creating to  maintain the attendance record with day to day activities is a challenging  task. The conventional method of calling the name of each student is  time-consuming and there is always a chance of proxy attendance. To avoid proxy attendance and manual effort we want to develop a  Smart Attendance System Using Face Recognition
